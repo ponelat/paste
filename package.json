@@ -1,12 +1,12 @@
 {
-  "name": "bimsonpower-csv-to-qrcodedynamic",
+  "name": "paste.github",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "gh-pages": "vite build --base=/csv-to-qrcodedynamic/",
+    "gh-pages": "vite build --base=/paste/",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
